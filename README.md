@@ -11,7 +11,7 @@ Github Repo: https://kimsabraham.github.io/dayPlanner05/.
 ### Output
 
 screenshot of final product:
-[![MyFinalForm](Assets\kimsabraham.github.io_dayPlanner05_.png)]
+<img src = "Assets\kimsabraham.github.io_dayPlanner05_.png">
 
 ## Contributing
 
