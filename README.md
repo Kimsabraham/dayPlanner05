@@ -6,7 +6,7 @@ This Project was to make a day planner using javaScript and Jquery while keeping
 
 URL: https://kimsabraham.github.io/dayPlanner05/
 
-Github Repo: https://kimsabraham.github.io/dayPlanner05/.
+Github Repo: https://github.com/Kimsabraham/dayPlanner05
 
 ### Output
 
