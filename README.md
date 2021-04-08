@@ -17,6 +17,10 @@ screenshot of final product:
 
 Please leave the code cleaner then you found it, make sure all links are still fuctional, other then that please feel free to help improve the website and add features.
 
+
+##Technologies
+Moment, javaScript, HTML, CSS
+
 ## Credit
 
 Abraham Kim
